@@ -15,17 +15,17 @@ AIP-S 1.0 is a Streamlit web application implementing a highly stringent, consen
 ### Access the Web Tool
 You can access and use the AIP-S 1.0 virtual screening pipeline directly through your web browser without any installation required:
 
-🔗 **[Launch AIP-S 1.0 Web Tool Here](INSERT_YOUR_STREAMLIT_APP_URL_HERE)**
+🔗 **[Launch AIP-S 1.0 Web Tool Here](https://aip-s-1-single-stage-screening.streamlit.app/)**
 
 ---
 
 ### Citation
 If you utilize the AIP-S 1.0 webtool or concepts in your research, please cite:
 
-> **AIP-S 1.0 Webtool** | Ajwin Joseph Martin, Dr. Dileep Kumar | Version 1.0 (2026).  
-> **Webtool URL:** *(Insert your deployed Streamlit URL here)*
+> **AIP-S 1.0 Webtool** | Dileep Kumar et al. | Version 1.0 (2026).  
+> **Webtool URL:** *(https://aip-s-1-single-stage-screening.streamlit.app/)*
 
-> **AIP-S 1.0: Consensus Machine Learning Framework for Predicting Soluble Epoxide Hydrolase (sEH) Inhibitors** | Ajwin Joseph Martin, Dileep Kumar. | *Manuscript in preparation* (2026).
+> **AIP-S 1.0: Consensus Machine Learning Framework for Predicting Soluble Epoxide Hydrolase (sEH) Inhibitors** | A. J. Martin, D. Kumar. | *Manuscript in preparation* (2026).
 
 *(Final journal citation and DOI will be updated here once published and archived.)*
 
